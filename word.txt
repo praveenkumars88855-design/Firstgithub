@@ -17,6 +17,12 @@ git branch -a
 create new file and git add .
 git commit -m "Create an fewfile in GIT" 
 git push origin Newbranch
-then optional go to  git checkout main
+then go to  git checkout main and git checkout Newbranch then go to git checkout main
 git diff Newbranch
 git merge Newbranch and git push origin main
+----------
+create new branch as in VScode git branch Gbranch and git branch -a
+git checkout Gbranch then git branch
+create an file in vs as Gbranch.txt
+git add . and git commit -m "added Gbranch text file"
+git push origin Gbranch
