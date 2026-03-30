@@ -1,4 +1,12 @@
+cd Firstgithub
 git add word2.txt
 git commit -m "Creat word2.txt"
 git status
 git push origin main.
+git reset --hard 
+git pull //for what we change in this Github folder to command git pull
+remove mean cd ..
+cd GIT
+git init
+git add . // for U to A
+create an GIT reprositery in this and 
