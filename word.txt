@@ -16,3 +16,7 @@ create an another branch as Newbranch and in VScode git branch -a and git pull a
 git branch -a
 create new file and git add .
 git commit -m "Create an fewfile in GIT" 
+git push origin Newbranch
+then optional go to  git checkout main
+git diff Newbranch
+git merge Newbranch and git push origin main
