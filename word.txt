@@ -12,3 +12,7 @@ git add . // for U to A
 //create an GIT reprositery in this and paste in VSCODE git remote add origin https://github.com/praveenkumars88855-design/GIT.git
 git branch //we can change git push origin master or git branch -M main
 git push origin main
+create an another branch as Newbranch and in VScode git branch -a and git pull and git checkout Newbranch
+git branch -a
+create new file and git add .
+git commit -m "Create an fewfile in GIT" 
