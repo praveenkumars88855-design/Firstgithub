@@ -1,12 +1,14 @@
 cd Firstgithub
-git add word2.txt
+git add word2.txt or git add .
 git commit -m "Creat word2.txt"
 git status
-git push origin main.
+git push origin main
 git reset --hard 
 git pull //for what we change in this Github folder to command git pull
 remove mean cd ..
 cd GIT
 git init
 git add . // for U to A
-create an GIT reprositery in this and 
+//create an GIT reprositery in this and paste in VSCODE git remote add origin https://github.com/praveenkumars88855-design/GIT.git
+git branch //we can change git push origin master or git branch -M main
+git push origin main
