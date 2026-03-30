@@ -1,4 +1,4 @@
 git add word2.txt
 git commit -m "Creat word2.txt"
 git status
-git push origin main
+git push origin main.
